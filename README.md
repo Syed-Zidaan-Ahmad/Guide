@@ -1,1 +1,12 @@
-# Guide
+# Guide for Installation Setups
+
+**Python Modules**
+
+pip install --upgrade pip setuptools wheel
+pip install certifi charset-normalizer idna urllib3 requests six packaging typing_extensions click colorama future filelock platformdirs pyparsing pyunormalize PySocks requests-file tldextract toolz cytoolz tenacity wrapt deprecation Deprecated StrEnum narwhals limits python-dateutil pytz tzdata tqdm rich typer python-dotenv pyinstaller pre-commit uv hypothesis
+pip install starlette pydantic pydantic_core fastapi uvicorn Flask flask-cors python-multipart slowapi email-validator typing-inspection annotated-doc pydantic-settings pydantic-extra-types orjson ujson cryptography cffi pycparser pycryptodome PyJWT pyasn1 pyasn1_modules python-jose jose jwt authlib open3d pyvista trimesh pyglet moderngl
+pip install eth-abi eth-account eth-hash eth-keyfile eth-keys eth-rlp eth-typing eth-utils hexbytes rlp web3 ckzg supabase supabase-auth supabase-functions postgrest realtime storage3
+pip install numpy scipy pandas joblib scikit-learn threadpoolctl seaborn matplotlib openpyxl xlrd pyarrow polars statsmodels plotly xlsxwriter sympy beautifulsoup4 soupsieve pytesseract pillow regex lxml pypdf pymupdf python-docx python-pptx reportlab pandasql duckdb aiosqlite
+pip install jupyter jupyterlab notebook ipython ipykernel ipywidgets jupyter-client jupyter-console jupyter-core jupyter-server jupyterlab-server jupyterlab-widgets widgetsnbextension nbclient nbconvert nbformat qtconsole traitlets debugpy ipympl pyzmq tornado pytest pytest-asyncio pytest-cov pytest-mock respx sqlalchemy alembic asyncpg psycopg[binary] redis celery
+pip install torch torchvision torchaudio transformers datasets accelerate evaluate peft sentence-transformers llama-cpp-python chromadb faiss-cpu xgboost lightgbm catboost gunicorn python-socketio PySide6 customtkinter dearpygui pygame-ce ursina panda3d streamlit gradio dash playwright opencv-python opencv-python-headless scikit-image librosa soundfile ffmpeg-python nltk spacy gensim faster-whisper SpeechRecognition sounddevice pyautogui keyboard mouse timm albumentations easyocr ultralytics onnx onnxruntime unstructured python-magic-bin mammoth docling dnspython python-whois stix2 taxii2-client mail-parser pefile yara-python
+pip install google-api-core google-api-python-client google-auth google-auth-httplib2 googleapis-common-protos google-generativeai google-genai google-ai-generativelanguage proto-plus protobuf grpcio grpcio-status
